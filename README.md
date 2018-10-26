@@ -3,7 +3,7 @@ This is a chrome extension to take screenshot from current view.
 
 ### How to use
 
-Go to `chrome://extensions/`, then load unpacked.
+Go to [chrome://extensions/](chrome://extensions/), then load unpacked.
 
 or
 
