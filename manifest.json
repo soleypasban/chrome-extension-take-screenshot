@@ -1,0 +1,22 @@
+{
+  "name": "Take a Screenshot",
+  "version": "1.4",
+  "description": "Take a Screenshot",
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "src/background.js"
+    ]
+  },
+  "icons": {
+    "128": "camera.png"
+  },
+  "browser_action": {
+    "default_icon": "camera.png",
+    "default_title": "Take a screenshot!"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 2
+}
